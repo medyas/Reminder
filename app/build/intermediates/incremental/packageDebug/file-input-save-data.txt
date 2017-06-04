@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sun Jun 04 16:09:43 PDT 2017
+2.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_reminder.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_10c92066adc96be3433e3d31fea2e01f0bf4cfa1
+6.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\reminder.xml
+5.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ea6584945e496b4a60f2545d3c96b85b50b0d58a\\classes.dex
+1.set=DEX
+2.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_10c92066adc96be3433e3d31fea2e01f0bf4cfa1\\classes.dex
+3.set=DEX
+1.base=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ea6584945e496b4a60f2545d3c96b85b50b0d58a
+4.file=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+0.set=ANDROID_RESOURCE

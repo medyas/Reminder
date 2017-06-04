@@ -1,0 +1,4 @@
+#Sun Jun 04 14:42:09 PDT 2017
+base.0=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\Courses\\itc 162\\ExtraCredit\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
